@@ -24,17 +24,8 @@ div {
     padding: 60px 20px 60px 20px;
 }
 
-a:link {
-    color: #BBC5D7;
-    font-family: 'Lato', sans-serif;
-    font-size: 14px;
-    font-weight: normal;
-    text-decoration: none;
-    -o-transition: .2s;
-    -ms-transition: .2s;
-    -moz-transition: .2s;;
-    -webkit-transition: .2s;
-    transition: .2s;
+.img-circle {
+    border-radius: 50%;
 }
 
 h1 {
@@ -60,6 +51,19 @@ h2 {
 h3 {
     padding-top: 8px;
     margin: 0;
+}
+
+a:link {
+    color: #BBC5D7;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    text-decoration: none;
+    -o-transition: .2s;
+    -ms-transition: .2s;
+    -moz-transition: .2s;;
+    -webkit-transition: .2s;
+    transition: .2s;
 }
 
 a:link {
