@@ -26,7 +26,7 @@ div {
 
 .img-circle {
     border-radius: 50%;
-    width: 112px;
+    height: 112px;
 }
 
 h1 {
@@ -67,19 +67,10 @@ a:link {
     transition: .2s;
 }
 
-a:link {
-    color: #BBC5D7;
-    font-family: 'Lato', sans-serif;
-    font-size: 14px;
-    font-weight: normal;
-    text-decoration: none;
-    -o-transition: .2s;
-    -ms-transition: .2s;
-    -moz-transition: .2s;;
-    -webkit-transition: .2s;
-    transition: .2s;
-}
-
 a:hover {
     color: #5C6678;
+}
+
+a:visited {
+    color: #BBC5D7;
 }
