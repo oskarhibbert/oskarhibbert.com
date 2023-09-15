@@ -19,14 +19,9 @@ body {
     max-width: 560px;
 }
 
-.center-content {
+div {
     text-align: center;
     padding: 60px 20px 60px 20px;
-}
-
-.left-content {
-    text-align: left;
-    padding: 20px 30px;
 }
 
 .img-circle {
@@ -56,23 +51,6 @@ h2 {
 h3 {
     padding-top: 8px;
     margin: 0;
-}
-
-.section-title {
-    color: #5C6678;
-    font-family: 'Lato', sans-serif;
-    font-size: 18px;
-    font-weight: bold;
-    padding-top: 16px;
-    margin: 0;
-}
-
-p, .sub-info {
-    color: #8A95A8;
-    font-family: 'Lato', sans-serif;
-    font-size: 14px;
-    font-weight: normal;
-    padding-top: 5px;
 }
 
 a {
